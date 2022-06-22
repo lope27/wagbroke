@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC9a18A149868b32aF10E8fe42DD46633a48E3552",
+  "SCAN_LINK": "https://etherscan.io/address/0xC9a18A149868b32aF10E8fe42DD46633a48E3552#code",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "We Are All Going Broke",
+  "SYMBOL": "WAGBROKE",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/we-are-all-going-broke",
+  "SHOW_BACKGROUND": true
+}
